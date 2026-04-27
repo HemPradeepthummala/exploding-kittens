@@ -1,0 +1,55 @@
+{
+  "exploding-kitten": {
+    "count": 4,
+    "category": "hazard"
+  },
+  "defuse": {
+    "count": 6,
+    "category": "defense"
+  },
+  "attack": {
+    "count": 4,
+    "category": "action"
+  },
+  "skip": {
+    "count": 4,
+    "category": "action"
+  },
+  "shuffle": {
+    "count": 4,
+    "category": "action"
+  },
+  "favor": {
+    "count": 4,
+    "category": "action"
+  },
+  "nope": {
+    "count": 5,
+    "category": "interrupt"
+  },
+  "see-the-future": {
+    "count": 5,
+    "category": "action"
+  },
+
+  "tacocat": {
+    "count": 4,
+    "category": "combo"
+  },
+  "cattermelon": {
+    "count": 4,
+    "category": "combo"
+  },
+  "hairy-potato-cat": {
+    "count": 4,
+    "category": "combo"
+  },
+  "beard-cat": {
+    "count": 4,
+    "category": "combo"
+  },
+  "rainbow-ralphing-cat": {
+    "count": 4,
+    "category": "combo"
+  }
+}
