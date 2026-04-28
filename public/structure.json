@@ -1,55 +1,68 @@
 {
   "exploding-kitten": {
     "count": 4,
-    "category": "hazard"
+    "category": "hazard",
+    "when": "draw"
   },
   "defuse": {
     "count": 6,
-    "category": "defense"
+    "category": "defense",
+    "when": "reaction"
   },
   "attack": {
     "count": 4,
-    "category": "action"
+    "category": "action",
+    "when": "turn"
   },
   "skip": {
     "count": 4,
-    "category": "action"
+    "category": "action",
+    "when": "turn"
   },
   "shuffle": {
     "count": 4,
-    "category": "action"
+    "category": "action",
+    "when": "turn"
   },
   "favor": {
     "count": 4,
-    "category": "action"
+    "category": "action",
+    "when": "turn"
   },
   "nope": {
     "count": 5,
-    "category": "interrupt"
+    "category": "interrupt",
+    "when": "any"
   },
   "see-the-future": {
     "count": 5,
-    "category": "action"
+    "category": "action",
+    "when": "turn"
   },
 
   "tacocat": {
     "count": 4,
-    "category": "combo"
+    "category": "combo",
+    "when": "turn"
   },
   "cattermelon": {
     "count": 4,
-    "category": "combo"
+    "category": "combo",
+    "when": "turn"
   },
   "hairy-potato-cat": {
     "count": 4,
-    "category": "combo"
+    "category": "combo",
+    "when": "turn"
   },
   "beard-cat": {
     "count": 4,
-    "category": "combo"
+    "category": "combo",
+    "when": "turn"
   },
   "rainbow-ralphing-cat": {
     "count": 4,
-    "category": "combo"
+    "category": "combo",
+    "when": "turn"
   }
 }
